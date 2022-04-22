@@ -28,9 +28,14 @@
 ```
 
     - Links to the Newyork citibike Dashboard reports & all graphs analysis: 
-    - Link to the Newyork citibike Story presentation: 
+    https://public.tableau.com/authoring/NewYorkcitiBikeReport_by_TracieB_DataAnalyst/NYcitibikeMar2022Report#1
+    
+    - Link to the Newyork citibike Story presentation:        
+    https://public.tableau.com/app/profile/tracie.bautista/viz/NewYorkcitiBikeReport_by_TracieB_DataAnalyst/NewYorkcitibikeLandscape
+    
     - This Github repo: 
-      * images folder: all screenshot from Tableau IDE for final works as a back up.
+      * images folder: all screenshot from Tableau IDE for final works as a back up (in case Tableau Public is not stable 
+        in keeping original format of Dashboard and workbooks).
       * manipulating_data.ipynb: Python codes for data manipulating works. 
       
 ![Brooklyn-Bridge-Park](https://user-images.githubusercontent.com/93897775/164772938-1f7eff4e-ffb4-4530-84f1-4119c5360118.png)

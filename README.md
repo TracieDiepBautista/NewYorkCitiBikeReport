@@ -31,7 +31,8 @@
     https://public.tableau.com/authoring/NewYorkcitiBikeReport_by_TracieB_DataAnalyst/NYcitibikeMar2022Report#1
     
     - Link to the Newyork citibike Story presentation:        
-    https://public.tableau.com/app/profile/tracie.bautista/viz/NewYorkcitiBikeReport_by_TracieB_DataAnalyst/NewYorkcitibikeLandscape
+    https://public.tableau.com/app/profile/tracie.bautista/viz/NY_citibike_report2022_twbx/NewYorkcitibikeLandscape
+    
     
     - This Github repo: 
       * images folder: all screenshot from Tableau IDE for final works as a back up (in case Tableau Public is not stable 
